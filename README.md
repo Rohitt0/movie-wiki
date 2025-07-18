@@ -2,6 +2,9 @@
 
 Movie Wiki is a web application built with React and Vite that allows users to search for movies, view popular movies, and manage their favorite movies.
 
+<img width="1890" height="952" alt="image" src="https://github.com/user-attachments/assets/40d8b26b-ebb8-474e-b9d2-b20c7a8f59b5" />
+
+
 ## Features
 
   * **View Popular Movies:** Discover popular movies on the homepage.
